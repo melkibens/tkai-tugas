@@ -1,0 +1,8 @@
+.git
+.cache
+.env
+env/
+/main_interface/static/*
+media/
+/fitur_*/migrations/000*.py
+/fitur_*/migrations/*initial*.py
